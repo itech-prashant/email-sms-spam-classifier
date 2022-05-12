@@ -1,4 +1,4 @@
-###### https://spam-classifier-prashant.herokuapp.com/
+###### Click here for web app. https://spam-classifier-prashant.herokuapp.com/
 # Email-SMS Spam Detection ML Classifier
  - Built end to end ML model using Python to classify any email/sms as spam or not spam.
  - Data Cleaning
